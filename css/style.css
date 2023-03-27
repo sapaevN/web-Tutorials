@@ -7,7 +7,6 @@
 .container{
 	border: 1px solid black;
 	height: 100vh;
-	
 	max-width: 100%;
 	display: flex;
 	align-items: center;
